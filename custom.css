@@ -1,0 +1,46 @@
+.paper,
+.pope {
+  background: url("oldPaper\ copy.jpg");
+  background-repeat: repeat;
+  background-size: 400px 400px;
+  margin: 10px;
+  padding: 40px;
+  font-family: "Great Vibes" !important;
+  border-radius: 20px;
+  box-shadow: 2px 2px 2px gray;
+}
+
+.paper .articleP {
+  /* font-family: 'Pinyon Script'; */
+  /* font-family: 'Caveat'; childish */
+  /* font-family: 'Homemade Apple'; pretty good, may be difficult to read*/
+  font-family: "La Belle Aurore";
+  font-size: 1.6rem !important;
+  line-height: 130%;
+  color: #55330f;
+}
+
+.pope .articleP {
+  /* font-family: 'Great Vibes'; */
+  /* font-family: 'Parisienne'; */
+  font-family: "Tangerine";
+  font-size: 1.8rem !important;
+  line-height: 130%;
+  color: #55330f;
+}
+
+.sub {
+  background-color: #f4f3f3;
+  padding: 20px;
+  /* border: 2px dashed; */
+  border-radius: 10px;
+}
+
+.sub .subtitle {
+font-weight: bold;
+}
+
+.sub .date {
+  font-style: italic;
+  font-family: monospace;
+}
